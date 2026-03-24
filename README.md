@@ -52,11 +52,11 @@ Open your web browser and go to:
 
 **1. Secure User Registration & Login**
 Users must create an account and log in to manage their private expenses.
-![Register Page](screenshots/register.png)
-![Login Page](screenshots/login.png)
+![Register Page](screenshots/register.png.png)
+![Login Page](screenshots/login.png.png)
 
 **2. Expense Dashboard**
 Users can add new expenses and view a scrollable history of their spending.
-![Add Expense](screenshots/expenses.png)
-![Recorded Expenses](screenshots/recordedexpenses%20.png)
-![Total View](screenshots/totalview.png)
+![Add Expense](screenshots/expenses.png.png)
+![Recorded Expenses](screenshots/recordedexpenses%20.png.png)
+![Total View](screenshots/totalview.png.png)
