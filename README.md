@@ -1,4 +1,4 @@
-# 💰 Expense Tracker Application
+# Expense Tracker Application
 
 A lightweight, responsive Expense Tracker built with Flask, Bootstrap 5, jQuery, and SQLite. This project fulfills standard guidelines for a full-stack CRUD application with both front-end and back-end logic.
 
