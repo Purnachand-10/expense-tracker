@@ -1,0 +1,42 @@
+/* Minimal CSS Overrides - Relying primarily on Bootstrap */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9 !important;
+}
+
+.card {
+    border-radius: 12px;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.table th {
+    font-weight: 600;
+    color: #495057;
+}
+
+.table td {
+    color: #212529;
+}
+
+/* Form Validation styles overlay */
+.form-control.is-invalid, .form-select.is-invalid {
+    border-color: #dc3545;
+    background-image: none;
+}
+
+/* Shake animation for form validation failure */
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+.shake {
+    animation: shake 0.4s ease-in-out;
+}
