@@ -47,3 +47,16 @@ Open your web browser and go to:
 
 - Use the form to add a new expense (Title, Amount, Category, Date are validated locally via jQuery and server-side).
 - Added expenses will be dynamically displayed in the Recent Expenses table along with the calculated total.
+
+## Demo and Screenshots
+
+**1. Secure User Registration & Login**
+Users must create an account and log in to manage their private expenses.
+![Register Page](screenshots/register.png)
+![Login Page](screenshots/login.png)
+
+**2. Expense Dashboard**
+Users can add new expenses and view a scrollable history of their spending.
+![Add Expense](screenshots/expenses.png)
+![Recorded Expenses](screenshots/recordedexpenses%20.png)
+![Total View](screenshots/totalview.png)
